@@ -1,2 +1,0 @@
-# Unterricht-C-
-Programmierung
